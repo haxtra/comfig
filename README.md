@@ -121,7 +121,15 @@ arry: [
 
 ## Install
 
-    npm i comfig
+Package name "comfig" is forbidden on NPM due to security reasons. I've requested this name, and currenty awaiting the resoultion. Until then you can install it via git:
+
+```
+# latest
+npm install git://github.com/haxtra/comfig.git
+
+# add commit hash for peace of mind, here v0.9.0
+npm install git://github.com/haxtra/comfig.git#84df6b6aaedab82c0dbc390e82047cece7605174
+```
 
 
 ## Usage
